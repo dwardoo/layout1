@@ -1,0 +1,14 @@
+header{
+    background-color:purple;
+    padding:20px;
+    text-align: center;
+}
+article{
+    background-color:lightblue;
+    padding:5px;
+    margin: 5px;
+}
+section{
+    display: flex;
+    
+}
